@@ -15,6 +15,7 @@ These aren't research quality, but I think they're good enough for the purpose o
 * J&K Lok Sabha seat map
 * Ladakh Lok Sabha seat map
 * India Lok Sabha seat map (incorporating the newer borders of all the states above)
+* J&K assembly seat map (will do this in July)
 
 
 
