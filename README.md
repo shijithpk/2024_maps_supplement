@@ -25,7 +25,7 @@ These geojsons aren't research quality, but I think they're good enough for the 
 * Other source maps were taken from the websites of the state election commissions
 * Areas in J&K claimed by India but administered/controlled/occupied by others have been assigned the *ls_seat_code* value of '999'
   * Have created two India maps to allow people the freedom to decide how to deal with those occupied areas.
-  * If you don't want to mess with all that and just want an India map with 543 features, one feature for one seat, use [india_ls_seats_543.geojson](india_ls_seats_543.geojson)
+  * If you don't want to mess with all that and just want an India map with 543 features, one feature for each seat, use [india_ls_seats_543.geojson](india_ls_seats_543.geojson)
 * Because the maps were created by georeferencing images in QGIS, some of the borders will be off, so use at your own risk.
   * The quality of the all-India Lok Sabha seat map could be better, will see if I can improve it in the coming weeks
   * Hopefully someone from the GIS community in India will step up and create a more accurate seat map that we all can use instead. Will link to it *here* if anyone does create that map.
