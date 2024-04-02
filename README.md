@@ -8,12 +8,12 @@ This is an attempt to provide maps that can substitute some of the outdated ones
 These aren't research quality, but I think they're good enough for the purpose of visualising on websites.
 
 ### Done
-* Sikkim assembly seat map
-* Assam Lok Sabha seat map
-* J&K Lok Sabha seat map
-* Ladakh Lok Sabha seat map
-* India Lok Sabha seat map (incorporating the newer borders of all the states above)
-* India Lok Sabha seat map (same as above, but with exactly 543 features)
+* [Sikkim assembly seat map](sikkim_assembly_updated.geojson)
+* [Assam Lok Sabha seat map](assam_ls_new_borders.geojson)
+* [J&K Lok Sabha seat map](j_and_k_ls_new_borders.geojson)
+* [Ladakh Lok Sabha seat map](ladakh_ls_new_borders.geojson)
+* [India Lok Sabha seat map](india_ls_seats_545.geojson) (incorporating the newer borders of all the states above)
+* [India Lok Sabha seat map](india_ls_seats_543.geojson) (same as above, but with 543 features, one for every Lok Sabha seat)
 
 ### Pending
 * J&K assembly seat map (will do this in July)
