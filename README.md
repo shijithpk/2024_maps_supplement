@@ -5,7 +5,7 @@ The maps in the [Datameet repo](https://github.com/datameet/maps) meet most of m
 
 This is an attempt to provide maps that can substitute some of the outdated ones in the Datameet repo.
 
-These aren't research quality, but I think they're good enough for the purpose of visualising on websites.
+These geojsons aren't research quality, but I think they're good enough for the purpose of visualising on websites.
 
 ### Done
 * [Sikkim assembly seat map](sikkim_assembly_updated.geojson)
@@ -17,6 +17,9 @@ These aren't research quality, but I think they're good enough for the purpose o
 
 ### Pending
 * J&K assembly seat map (will do this in July)
+
+### Notes
+* source maps used for sikkim, assam, ladakh, j and k are in the [sources](sources/) folder
 
 
 
