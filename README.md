@@ -21,7 +21,7 @@ These geojsons aren't research quality, but I think they're good enough for the 
 ### Notes
 * Source maps used for sikkim, assam, ladakh, j and k are in the **source maps** folder
 * The main source maps were taken from this [press note pdf](https://elections24.eci.gov.in/docs/press-note-no-23.pdf) from the election commission
-  * The various maps in the pdf can be extracted as svgs if you want other maps.
+  * The various maps in the pdf can be extracted as svgs if you want updated maps for other states/UTs.
 * Other source maps were taken from the websites of the state election commissions
 * Areas in J&K claimed by India but administered/controlled/occupied by others have been assigned the *ls_seat_code* value of '999'
   * Have created two India maps to allow people the freedom to decide how to deal with those occupied areas.
