@@ -19,7 +19,7 @@ These geojsons aren't research quality, but I think they're good enough for the 
 * J&K assembly seat map (will do this in July)
 
 ### Notes
-* source maps used for sikkim, assam, ladakh, j and k are in the [source maps](/'source maps') folder
+* source maps used for sikkim, assam, ladakh, j and k are in the [source maps](/"source maps") folder
 
 
 
