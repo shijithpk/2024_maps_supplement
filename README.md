@@ -28,11 +28,11 @@ These geojsons aren't research quality, but I think they're good enough for the 
   * If you don't want to mess with all that and just want an India map with 543 features, one feature for each seat, use [india_ls_seats_543.geojson](india_ls_seats_543.geojson)
 * Because the maps were created by georeferencing images in QGIS, some of the borders will be off, so use at your own risk.
   * The quality of the all-India Lok Sabha seat map could be better, will see if I can improve it in the coming weeks
-  * Hopefully someone from the GIS community in India will step up and create a more accurate seat map that we all can use instead. Will link to it *here* if anyone does create that map.
+  * Hopefully someone from the GIS community in India will step up and create a more accurate seat map that we can use instead. Will link to it *here* if anyone does.
 * If someone comes across this online, and wants to create a better map, see if you can build one from the taluk up for J&K and Assam.
-  * Because even if you georeference the election commission images and create slightly better maps than this, it is still just marginal gains.
+  * Because even if you georeference the election commission images and create slightly better maps than the ones in this repo, it will still just represent *marginal gains* in accuracy.
   * Building lok sabha seats from the taluk up is time-consuming, but that should be the next step.
-* If you want to use these geojsons for visualisation on the web, its best to convert them to topojsons that will be smaller in file size.
+* If you want to use these geojsons for visualisation on the web, its best to convert them to topojsons, they will be smaller in file size.
 
 
 
