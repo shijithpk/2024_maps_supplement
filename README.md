@@ -9,12 +9,13 @@ These aren't research quality, but I think they're good enough for the purpose o
 
 ### Done
 * Sikkim assembly seat map
-
-### Pending
 * Assam Lok Sabha seat map
 * J&K Lok Sabha seat map
 * Ladakh Lok Sabha seat map
 * India Lok Sabha seat map (incorporating the newer borders of all the states above)
+* India Lok Sabha seat map (same as above, but with exactly 543 features)
+
+### Pending
 * J&K assembly seat map (will do this in July)
 
 
