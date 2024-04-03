@@ -12,8 +12,8 @@ These geojsons may not be research quality, but I think they're good enough for 
 * [Assam Lok Sabha seat map](assam_ls_new_borders.geojson)
 * [J&K Lok Sabha seat map](j_and_k_ls_new_borders.geojson)
 * [Ladakh Lok Sabha seat map](ladakh_ls_new_borders.geojson)
-* [India Lok Sabha seat map](india_ls_seats_545.geojson) (incorporates new seat borders for Assam and J&K. Has 2 extra features for areas in J&K that technically aren't part of any seat but are needed to show India as a whole.)
-* [India Lok Sabha seat map](india_ls_seats_543.geojson) (same as above, but with 543 features, one for each Lok Sabha seat. Here the 2 extra features have been merged with existing seats.)
+* [India Lok Sabha seat map 1](india_ls_seats_545.geojson) (incorporates new seat borders for Assam and J&K. Has 2 extra features for areas in J&K that technically aren't part of any seat but are needed to show India as a whole.)
+* [India Lok Sabha seat map 2](india_ls_seats_543.geojson) (same as above, but with 543 features, one for each Lok Sabha seat. Here the 2 extra features have been merged with existing seats.)
 
 ### Pending
 * J&K assembly seat map (will do this in July)
