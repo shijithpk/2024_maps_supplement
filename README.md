@@ -36,7 +36,7 @@ These geojsons may not be research quality, but I think they're good enough for 
 	* As a starting point, you can go through govt. gazette notifications (J&K ones [are here](https://ceojk.nic.in/DELIMI_FINAL.htm)). They have lists of which districts/taluks/tehsils of a state are in which lok sabha seat etc.
 
 ### Corrections
-	* Apr 20, 2024 -- Thanks to Srinivasan Ramani of Hindu for pointing this out, had interchanged the names and election commission ids of two lok sabha seats in Assam -- "Diphu (ex Autonomous District)" and "Kaziranga (ex Kaliabor)". They should be associated with the right seats now. 
+* Apr 20, 2024 -- Thanks to Srinivasan Ramani of Hindu for pointing this out, had interchanged the names and election commission ids of two lok sabha seats in Assam -- "Diphu (ex Autonomous District)" and "Kaziranga (ex Kaliabor)". They should be associated with the right seats now. 
 
 
 
