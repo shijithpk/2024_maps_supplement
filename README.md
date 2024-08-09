@@ -14,9 +14,7 @@ These geojsons may not be research quality, but I think they're good enough for 
 * [Ladakh Lok Sabha seat map](ladakh_ls_new_borders.geojson)
 * [India Lok Sabha seat map 1](india_ls_seats_545.geojson) (incorporates new seat borders for Assam and J&K. Has 2 extra features for areas in J&K that technically aren't part of any seat but are needed to show India as a whole.)
 * [India Lok Sabha seat map 2](india_ls_seats_543.geojson) (same as above, but with 543 features, one for each Lok Sabha seat. Here the 2 extra features have been merged with existing seats.)
-
-### Pending
-* J&K assembly seat map (will do this in July)
+* [J&K assembly seat map](j_and_k_assembly_new_borders.geojson)
 
 ### Notes
 * If you want to use these geojsons for visualisation on the web, its best to convert them to topojsons, they will be smaller in file size.
@@ -38,6 +36,20 @@ These geojsons may not be research quality, but I think they're good enough for 
 ### Corrections
 * Apr 20, 2024 -- Thanks to Srinivasan Ramani of Hindu for pointing this out, had interchanged the names and election commission ids of two lok sabha seats in Assam -- "Diphu (ex Autonomous District)" and "Kaziranga (ex Kaliabor)". They should be associated with the right seats now. 
 
+### Update for J&K assembly map (Aug 9, 2024) 
 
+The map is based on [this pdf](https://ceojk.nic.in/pdf/J&K%20AC%20map%20new.pdf) from the J&K chief electoral officer's website and an official-ish geojson from [a NIC map server](https://webgis1.nic.in/publishing/rest/services/election/election/MapServer/3). Hat-tip to Arun Ganesh aka planemad who pointed out the NIC map server in one of his gists. And if that govt pdf gets taken down for any reason, I've hosted it [here too](source_maps/j_and_k_source_2.pdf).
+
+The geojson from the map server had actually mixed up the assembly seat numbers and names, but that's ok, i'm just thankful there's something out there with correct-ish borders. I've fixed the seat numbers and names using the government pdf.
+
+(If you want the geojson to look like J&K in the pdf, you'll need to 'reproject' it from EPSG:4326 to EPSG:7755.) 
+
+Now as the assembly election approaches, there's a chance that the election commission might change the seat numbers up, it's unlikely, but in case they do, will update it in this geojson as well.
+
+I've tried to be a little more inclusive and generated Urdu and Hindi versions of all the seat names and district names using Claude Sonnet 3.5. This should help the national media and the local media in J&K a bit. Most of the transliterations should be ok, but please cross-check and correct them before using them in production. (And if any of the spellings are drastically wrong, let me know by raising a github issue or mailing me on mail@shijith.com and I'll fix them.)
+
+And speaking of production, please don't use the geojson as is. Convert it into a topojson and use that, it'll much smaller in filesize, your user will thank you :)	
+
+Lastly, there is feature numbered 9999 in the geojson, it's the part of J&K occupied/controlled/administered(take your pick) by Pakistan. If you want to show J&K as the Indian government defines it, you'll have to show that area too. 
 
 
